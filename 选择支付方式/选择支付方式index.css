@@ -1,0 +1,225 @@
+.quedan{
+    width: 7.50rem;
+    height: 1.26rem;
+    background-image: linear-gradient(90deg,
+    #00aa98 0%,
+    #0aa292 100%),
+    linear-gradient(
+            #000000,
+            #000000);
+    background-blend-mode: normal,
+    normal;
+    margin: 0 auto;
+}
+.qdw{
+    width: 1.8rem;
+    height: 0.42rem;
+    font-size: 0.42rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.42rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    margin: 0 auto;
+    padding-top: 0.74rem;
+}
+.songzhi{
+    width: 7.50rem;
+    height: 5.28rem;
+    background-image: linear-gradient(90deg,
+    #00aa98 0%,
+    #35bbb0 100%),
+    linear-gradient(
+            #000000,
+            #000000);
+    background-blend-mode: normal,
+    normal;
+    margin: 0 auto;
+    padding-top: 0.39rem;
+}
+.content{
+    width: 7.02rem;
+    height: 1.35rem;
+    margin: 0 auto;
+}
+.content .c1{
+    width: 1.63rem;
+    height: 0.27rem;
+    font-size: 0.29rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0;
+    color: #ffffff;
+}
+.content .c2{
+    width: 5.21rem;
+    height: 0.36rem;
+    font-size: 0.38rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    margin-top: 0.21rem;
+}
+.content .c3{
+    width: 4.59rem;
+    height: 0.29rem;
+    font-size: 0.30rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    margin-top: 0.19rem;
+}
+.bcontent{
+    width: 7.02rem;
+    height: 2.11rem;
+    background: #fcfcfc;
+    box-shadow: 0 0.01rem 0.16rem 0
+    #c0c3c2;
+    border-radius: 0.20rem;
+    margin: 0 auto;
+    margin-top: 0.28rem;
+    padding: 0.43rem 0 0 0.25rem;
+}
+.sdsj{
+    width:6.0rem;
+    height: 0.30rem;
+    font-size: 0.32rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0.03rem;
+    color: #737373;;
+}
+.zsfw{
+    width: 3.5rem;
+    height: 0.22rem;
+    font-size: 0.22rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0.01rem;
+    color: #fd9795;
+    margin-top: 0.14rem;
+}
+.zffs{
+    width: 1.4rem;
+    height: 0.31rem;
+    font-size: 0.32rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0.03rem;
+    margin-top: 0.41rem;
+    color: #737373;
+}
+/*.ddi{*/
+    /*width: 7.50rem;*/
+    /*height: 8.00rem;*/
+    /*background: #d6e9c6;*/
+    /*margin: 0 auto;*/
+/*}*/
+.chahao{
+    font-size: 0.14rem;
+    font-family: iconfont;
+    color: #000000;
+    float: right;
+    margin-right: 0.41rem;
+}
+.xzfs{
+    width: 7.02rem;
+    height: 7.38rem;
+    background-image: linear-gradient(
+            #fcfcfc,
+            #fcfcfc),
+    linear-gradient(
+            #000000,
+            #000000);
+    background-blend-mode: normal,
+    normal;
+    box-shadow: 0 0.02rem 0.21rem 0
+    rgba(149, 149, 149, 0.22);
+    border-radius: 0.20rem;
+    margin: 0 auto;
+    padding-top: 0.25rem;
+    margin-top: 0.3rem;
+}
+.xs{
+    width: 1.88rem;
+    height: 0.28rem;
+    font-size: 0.30rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #050505;
+    opacity: 0.65;
+    margin: 0 2.57rem;
+}
+.lh1{
+    font-family: iconfont;
+    font-size: 0.50rem;
+    color: #d2d2d2;
+}
+.dui{
+    width: 6.53rem;
+    height: 4.44rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-start;
+    align-content: space-evenly;
+}
+.dui li{
+    width: 2.5rem;
+    height: 0.52rem;
+    margin: 0.3rem 0 0 0.48rem;
+}
+.se1{
+    font-size: 0.45rem;
+    font-family: iconfont;
+    color: #fc8842;
+    float: left;
+}
+.se2{
+   font-size: 0.47rem;
+    font-family: iconfont;
+    color: #5494f5;
+    float: left;
+}
+.se3{
+    font-size: 0.47rem;
+    font-family: iconfont;
+    color: #5cb957;
+    float: left;
+ }
+.se4{
+  font-size: 0.47rem;
+    font-family: iconfont;
+    color: #fab848;
+    float: left;
+}
+.se5{
+    width: 0.47rem;
+    height: 0.47rem;
+    background-color: #51b584;
+    border-radius: 2rem;
+    font-family: iconfont;
+    font-size: 0.28rem;
+    color: #fcfcfc;
+    line-height: 0.47rem;
+    text-align: center;
+    float: left;
+}
+.se22{
+    width: 2rem;
+    height: 0.23rem;
+    margin-left: 0.6rem;
+    font-size: 0.24rem;
+    letter-spacing: 0.01rem;
+    line-height: 0.5rem;
+    color: #050505;
+    opacity: 0.52;
+}

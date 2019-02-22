@@ -1,0 +1,411 @@
+.toulan{
+    width: 7.50rem;
+    height: 1.28rem;
+    background: #00aa98;
+    margin: 0 auto;
+    padding: 0.71rem 0.1rem;
+}
+.tbox{
+    width: 7.17rem;
+    height: 0.36rem;
+    font-family: iconfont;
+    font-size: 0.36rem;
+    margin: 0 auto;
+    margin-left: 0.2rem;
+    color: #ffffff;
+
+}
+.zjieshao{
+    width: 7.50rem;
+    height: 2.29rem;
+    background-image: linear-gradient(90deg,
+    #00aa98 0%,
+    #b2e3ea 100%);
+    opacity: 0.98;
+    margin: 0 auto;
+    padding: 0.39rem;
+}
+.jtouxiang{
+    width: 1.50rem;
+    height: 1.50rem;
+    background-image: linear-gradient(
+            #f7fbfa,
+            #f7fbfa),
+    linear-gradient(
+            #62d6d3,
+            #62d6d3);
+    background-blend-mode: normal,
+    normal;
+    border-radius: 0.20rem;
+    margin-left: 0.16rem;
+    float: left;
+}
+.jtouxiang img{
+    width: 1.38rem;
+    height: 1.38rem;
+    background-color: #62d6d3;
+    border-radius: 0.10rem;
+    border: solid 0 #cececc;
+    margin: 0.06rem 0.06rem;
+}
+.jzi{
+    width: 4.86rem;
+    height: 1.5rem;
+    float:right;
+}
+.jzi .fzi{
+    font-size: 0.30rem;
+    color: #ffffff;
+}
+.szi2{
+    width: 4rem;
+    height: 0.37rem;
+    margin-top: 0.1rem;
+}
+.szi1{
+    font-family: iconfont;
+    font-size: 0.37rem;
+    color: #ffffff;
+    float: left;
+}
+.jzi .szi{
+    font-size: 0.24rem;
+    color: #ffffff;
+    float: right;
+    line-height: 0.55rem;
+}
+.tzi1{
+    width: 4.86rem;
+    height: 0.24rem;
+    margin-top: 0.25rem;
+}
+.tzi{
+    font-size: 0.24rem;
+    color: #ffffff;
+    font-weight: 200;
+}
+.gundonglan{
+    width: 7.50rem;
+    height: 0.98rem;
+    background-color: #a1dbd2;
+    margin: 0 auto;
+    padding: 0.27rem;
+}
+.dian{
+    width: 0.23rem;
+    height: 0.24rem;
+    background-color: #f8fafc;
+    border-radius: 0.5rem;
+    float: left;
+    margin-right: 0.2rem;
+}
+.gdz{
+    width: 5.70rem;
+    height: 0.25rem;
+    font-size: 0.24rem;
+    font-weight: normal;
+    line-height: 0.25rem;
+    font-stretch: normal;
+    letter-spacing: 0;
+    color: #070707;
+    opacity: 0.4;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    float: left;
+}
+.zhuangshi{
+    width: 7.50rem;
+    height: 0.2rem;
+    margin: 0 auto;
+    margin-top: -0.3rem;
+    font-family: iconfont;
+    font-size: 0.3rem;
+    color: #ffffff;
+    letter-spacing: -0.07rem;
+    text-align: center;
+    overflow: hidden;
+}
+.dingcan{
+    width: 7.50rem;
+    height: 1.13rem;
+    background: #ffffff;
+    margin: 0 auto;
+    padding: 0.25rem;
+}
+.pj{
+    width: 3.58rem;
+    height: 0.56rem;
+    background-image: linear-gradient(
+            #f3f4f4,
+            #f3f4f4),
+    linear-gradient(
+            #060606,
+            #060606);
+    background-blend-mode: normal,
+    normal;
+    border-radius: 0.20rem;
+    border: solid 0.05rem #e9e9e8;
+    margin: 0 auto;
+    opacity: 0.45;
+    font-size: 0.3rem;
+    letter-spacing: 0.05rem;
+    color: #e2dcdc;
+}
+.dc{
+    width: 1.95rem;
+    height: 0.41rem;
+    background-image: linear-gradient(
+            #00aa98,
+            #00aa98),
+    linear-gradient(
+            #060606,
+            #060606);
+    background-blend-mode: normal,
+    normal;
+    border-radius: 0.20rem;
+    font-size: 0.3rem;
+    letter-spacing: 0.05rem;
+    color: #ffffff;
+    text-align: center;
+    margin: 0.025rem 0.3rem 0 0.03rem;
+    float: left;
+}
+.zhanshi{
+    width: 7.50rem;
+    height: 7.80rem;
+    background: #eaedea;
+    margin: 0 auto;
+}
+.zuoce{
+    width: 1.86rem;
+    height: 7.80rem;
+    background-color: #a1dbd2;
+    float: left;
+    display: flex;
+    justify-content: space-evenly;
+}
+.zuoce li{
+    width: 1.37rem;
+    height: 0.48rem;
+    border-radius: 0.24rem;
+    margin-top: 0.45rem;
+    border: solid 0.02rem #00aa98;
+}
+.zuoce li p{
+    font-size: 0.26rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.05rem;
+    text-align: center;
+    line-height: 0.46rem;
+    color: #173148;
+}
+.xinpin{
+    width: 1.37rem;
+    height: 0.48rem;
+    background-color: #00aa98;
+    border-radius: 0.24rem;
+}
+.youce{
+    width: 5.64rem;
+    height: 7.8rem;
+    display: flex;
+    justify-content: space-around;
+    float: right;
+}
+.youce li{
+    width: 5.01rem;
+    height: 2.01rem;
+    background-image: linear-gradient(
+            #f8f9f6,
+            #f8f9f6),
+    linear-gradient(
+            #b0adc5,
+            #b0adc5);
+    background-blend-mode: normal,
+    normal;
+    border-radius: 0.20rem;
+    margin-top: 0.44rem;
+}
+.youce li img{
+    width: 1.69rem;
+    height: 1.69rem;
+    margin: 0.19rem 0 0 0.19rem;
+    float: left;
+}
+.fjs{
+    width: 2.8rem;
+    height: 1.65rem;
+    float: left;
+    margin: 0.19rem 0 0 0.2rem;
+}
+.fjs1{
+    width: 1.90rem;
+    height: 0.21rem;
+    font-size: 0.22rem;
+    letter-spacing: -1px;
+    color: #173148;
+}
+.fjs2{
+    width: 2.5rem;
+    height: 0.21rem;
+    font-size: 0.20rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 1px;
+    color: #9d9e9e;
+    margin-top: 0.15rem;
+}
+.fjs3{
+    width: 2.8rem;
+    height: 0.17rem;
+    font-size: 0.18rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #a6a7a9;
+    margin-top: 0.15rem;
+}
+.fjs4{
+    width:2.8rem;
+    height: 0.17rem;
+    font-size: 0.18rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0;
+    color: #2db780;
+    margin-top: 0.15rem;
+
+}
+.fjs5{
+    width: 2.8rem;
+    height: 0.24rem;
+    font-size: 0.24rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0;
+    color: #2db780;
+    margin-top: 0.16rem;
+}
+.fjs51{
+    font-family: iconfont;
+    font-size: 0.16rem;
+    color: #8c8d8a;
+    float: left;
+    margin-top: 0.05rem;
+}
+.fjs52{
+    width: 0.47rem;
+    height: 0.19rem;
+    font-size: 0.24rem;
+    font-weight: normal;
+   line-height: 0.44rem;
+    letter-spacing: 0;
+    color: #2db780;
+    float: left;
+    margin-top: -0.05rem;
+}
+.fjs53{
+    font-family: iconfont;
+    width: 0.37rem;
+    height:0.14rem;
+    font-size: 0.18rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0;
+    color: #8c8d8a;
+    float: left;
+    margin-left: 0.3rem;
+    text-decoration: line-through;
+}
+.fjs54{
+    width: 0.22rem;
+    height: 0.22rem;
+    float: right;
+    font-family: iconfont;
+    color: #f03611;
+}
+.di{
+    width: 7.50rem;
+    height: 2.56rem;
+    background: #f8f9f6;
+    margin: 0 auto;
+    padding: 0.15rem;
+}
+.dbox{
+    width: 6.71rem;
+    height: 0.87rem;
+    margin: 0 auto;
+    padding: 0.1rem;
+}
+.gwc{
+    /*background-image: linear-gradient(0deg,*/
+    /*#c2e8c3 0%,*/
+    /*#51b584 100%),*/
+    /*linear-gradient(*/
+            /*#000000,*/
+            /*#000000);*/
+    /*background-blend-mode: normal,*/
+    /*normal;*/
+    width: 0.69rem;
+    height: 0.69rem;
+    border-radius: 0.5rem;
+    font-family: iconfont;
+    color: #faf7f7;
+    font-size: 0.4rem;
+    text-align: center;
+    line-height: 0.69rem;
+    float: left;
+    background: #8c8c8c;
+}
+.gzi{
+    width: 1.6rem;
+    height: 0.8rem;
+    margin:-0.05rem 0 0 0.15rem;
+    float: left;
+}
+.gz1{
+    width: 1.5rem;
+    height: 0.2rem;
+    font-size: 0.20rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0;
+    color: #656464;
+    margin-top: 0.1rem;
+}
+.gz2{
+    width: 1.3rem;
+    height: 0.17rem;
+    font-size: 0.18rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #656464;
+    opacity: 0.5;
+    margin-top: 0.1rem;
+}
+.qudiancan {
+
+    /*background-image: linear-gradient(90deg,*/
+    /*#1bb172 0%,*/
+    /*#b2e3ea 100%),*/
+    /*linear-gradient(*/
+            /*#000000,*/
+            /*#000000);*/
+    /*background-blend-mode: normal,*/
+    /*normal;*/
+    width: 1.16rem;
+    height: 0.40rem;
+
+    border-radius: 0.20rem;
+    float: right;
+    margin-top: 0.15rem;
+    font-size: 0.22rem;
+    letter-spacing: 0.01rem;
+    color: #fdfdfd;
+    text-align: center;
+    line-height: 0.4rem;
+    background: #8c8c8c;
+}

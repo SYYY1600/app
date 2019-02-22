@@ -1,0 +1,441 @@
+.ztl{
+    width: 7.50rem;
+    height: 0.40rem;
+    background-image: linear-gradient(
+            #d8d9d9,
+            #d8d9d9),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+    opacity: 0.5;
+    margin: 0 auto;
+}
+.baid{
+    width: 7.50rem;
+    height: 12.94rem;
+    /*background: #d6e9c6;*/
+    margin: 0 auto;
+    padding-top: 0.24rem;
+}
+.fhui{
+    font-size: 0.31rem;
+    font-family: iconfont;
+    color: #a5a8a8;
+    margin: 0 0 0.45rem 0.24rem;
+}
+.shaishi{
+    width: 2.6rem;
+    height: 0.40rem;
+    font-size: 0.42rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    margin-left: 0.24rem;
+    color: #8f9191;
+}
+.shaizi{
+    width: 7.01rem;
+    height: 0.4rem;
+    /*background: #1c94ff;*/
+    margin: 0.63rem 0 0.26rem 0.24rem;
+}
+.shaizi1{
+    width: 0.07rem;
+    height: 0.07rem;
+    font-size: 0.07rem;
+    font-family: iconfont;
+    color: #44b1c3;
+    float: left;
+}
+.shaizi2{
+    width: 0.07rem;
+    height: 0.07rem;
+    font-family: iconfont;
+    font-size: 0.07rem;
+    color: #d0d0d0;
+}
+.shaizi3{
+    width: 2.8rem;
+    height: 0.20rem;
+    font-size: 0.20rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #959696;
+    opacity: 0.73;
+    float: left;
+}
+.shaizi4{
+    /*width: 1.20rem;*/
+    /*height: 0.22rem;*/
+    font-size: 0.20rem;
+    letter-spacing: -0.01rem;
+    color: #f2a2a2;
+    float: right;
+    line-height: 0.5rem;
+}
+.shaizi5{
+    width: 1.20rem;
+    height: 0.22rem;
+    font-size: 0.30rem;
+    letter-spacing: -0.01rem;
+    color: #f46f6f;
+    float: right;
+}
+.yj{
+    width: 4.5rem;
+    height: 0.24rem;
+    /*background: #ff6700;*/
+    float: right;
+    margin-right: 0.5rem;
+}
+.yj li{
+    width: 1.62rem;
+    height: 0.24rem;
+    /*background: #00aa98;*/
+    float: left;
+}
+.li2{
+    margin-left: 0.5rem;
+}
+.fst{
+    width: 0.60rem;
+    height: 0.24rem;
+    background-image: linear-gradient(90deg,
+    #00aa98 0%,
+    #a1dbd2 100%),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+    border-radius: 0.12rem;
+    float: left;
+}
+.fs1{
+    width: 0.5rem;
+    height: 0.17rem;
+    font-size: 0.16rem;
+    letter-spacing: 0.01rem;
+    color: #ffffff;
+    margin-left: 0.05rem;
+
+}
+.fst1{
+
+    font-size: 0.20rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: -0.01rem;
+    color: #000000;
+    opacity: 0.43;
+    float: left;
+}
+.fst2{
+
+    font-size: 0.20rem;
+    font-weight: normal;
+
+    letter-spacing: -0.01rem;
+    color: #858181;
+    opacity: 0.43;
+}
+.fst0{
+    width: 0.73rem;
+    height: 0.24rem;
+    background-image: linear-gradient(90deg,
+    #00aa98 0%,
+    #a1dbd2 100%),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+    border-radius: 0.12rem;
+    float: left;
+}
+.fst11{
+
+    font-size: 0.20rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: -0.01rem;
+    color: #000000;
+    opacity: 0.43;
+    float: left;
+}
+.fst21{
+    font-size: 0.16rem;
+    font-weight: normal;
+
+    letter-spacing: -0.01rem;
+    color: #858181;
+    opacity: 0.43;
+}
+.zw{
+    width: 7.02rem;
+    height: 1.55rem;
+    margin: 0 auto;
+    margin: 0.76rem 0.24rem 0 0;
+    float: right;
+}
+.biao{
+    font-size: 0.66rem;
+    font-family: iconfont;
+    line-height: 1.45rem;
+    margin-left: 0.34rem;
+    color: #4492fc;
+    float: left;
+
+}
+.biao1{
+    font-size: 0.66rem;
+    font-family: iconfont;
+    line-height: 1.45rem;
+    margin-left: 0.34rem;
+    color: #3fc85f;
+    float: left;
+}
+.mc{
+    width: 1.25rem;
+    height: 0.4rem;
+    /*background: #ff6700;*/
+    float: left;
+    margin: 0.5rem 0 0 0.14rem;
+}
+.mc1{
+    font-size: 0.2rem;
+    letter-spacing: -1px;
+    color: #080e0d;
+    opacity: 0.48;
+}
+.mc2{
+    font-size: 0.18rem;
+    letter-spacing: -0.01rem;
+    color: #080e0d;
+    opacity: 0.14;
+}
+.mc11{
+    font-size: 0.2rem;
+    letter-spacing: -1px;
+    color: #080e0d;
+    opacity: 0.48;
+}
+.mc21{
+    font-size: 0.14rem;
+    letter-spacing: -0.01rem;
+    color: #080e0d;
+    opacity: 0.14;
+}
+
+.zb{
+    width: 3.37rem;
+    height: 1.37rem;
+    background-image: linear-gradient(
+            #fafcff,
+            #fafcff),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+    box-shadow: 0 0.01rem 0.16rem 0
+    #c3c1c1;
+    float: left;
+    border-radius: 0.1rem;
+}
+.wx{
+    width: 3.37rem;
+    height: 1.37rem;
+    background-image: linear-gradient(
+            #fafcff,
+            #fafcff),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+    box-shadow: 0 0.01rem 0.16rem 0
+    #c7c7c7;
+    float: right;
+    border-radius: 0.1rem;
+}
+.qita{
+    width: 2.5rem;
+    height: 0.58rem;
+    background-image: linear-gradient(90deg,
+    #00aa98 0%,
+    #52c3b5 50%,
+    #a1dbd2 100%),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+    float: left;
+    margin-top: 0.48rem;
+    border-radius:0 2rem 2rem 0;
+}
+.qt1{
+
+    width: 1.5rem;
+    height: 0.23rem;
+    font-size: 0.24rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    margin-left: 0.2rem;
+    line-height: 0.5rem;
+    color: #ffffff;
+
+}
+.yh{
+    width: 7.02rem;
+    height: 1.24rem;
+    background-image: linear-gradient(
+            #fcfdfd,
+            #fcfdfd),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+    box-shadow: 0 0.01rem 0.16rem 0
+    #c0c3c2;
+    border-radius: 0.10rem;
+    float: left;
+    margin: 0.3rem 0 0 0.24rem;
+}
+.yh1{
+    font-family: iconfont;
+    font-size: 0.68rem;
+    color: #e23781;
+    line-height: 1.24rem;
+    margin-left: 0.28rem;
+    float: left;
+
+}
+.yh2{
+    width: 2.9rem;
+    height: 0.4rem;
+    /*background: #d6e9c6;*/
+    float: left;
+    margin: 0.4rem 0 0 0.13rem;
+}
+.yh21{
+    width: 5.5rem;
+   font-size: 0.14rem;
+    color: #060606;
+    opacity: 0.1;
+}
+.yh22{
+    font-size: 0.2rem;
+    letter-spacing: 0.01rem;
+    color: #060606;
+    opacity: 0.52;
+}
+.yh3{
+    width: 0.70rem;
+    height: 0.42rem;
+    background-image: linear-gradient(0deg,
+    #e43b85 0%,
+    #fa67b5 100%),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+    border-radius: 0.21rem;
+    float: right;
+    margin: 0.4rem 0.24rem 0 0;
+    letter-spacing: 1px;
+    color: #fde5f1;
+    font-size: 0.2rem;
+    text-align: center;
+    line-height: 0.42rem;
+}
+.ds{
+    width: 7.02rem;
+    height: 1.24rem;
+    background-image: linear-gradient(
+            #fcfdfd,
+            #fcfdfd),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+    box-shadow: 0 0.01rem 0.16rem 0
+    #c8c8c8;
+    border-radius: 0.10rem;
+    float: left;
+    margin: 0.13rem 0 0 0.24rem;
+}
+.ds1{
+    width: 0.68rem;
+    height: 0.68rem;
+    background-image: linear-gradient(0deg,
+    #41abfe 0%,
+    #5ebcfe 50%,
+    #7accfd 100%),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+
+    border-radius: 2rem;
+
+    margin:0.25rem 0 0 0.28rem;
+    float: left;
+}
+.ds11{
+    font-size: 0.32rem;
+    color: #ffffff;
+    font-family: iconfont;
+    line-height: 0.66rem;
+    text-align: center;
+}
+.ds2{
+    width: 2.9rem;
+    height: 0.4rem;
+    /*background: #d6e9c6;*/
+    float: left;
+    margin: 0.4rem 0 0 0.13rem;
+}
+.ds21{
+    width: 5.5rem;
+    font-size: 0.16rem;
+
+    color: #060606;
+    opacity: 0.1;
+}
+.ds22{
+    font-size: 0.2rem;
+    letter-spacing: 0.01rem;
+    color: #060606;
+    opacity: 0.52;
+}
+.ds3{
+    width: 0.70rem;
+    height: 0.42rem;
+    background-image: linear-gradient(0deg,
+    #3facff 0%,
+    #84d5ff 100%),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+
+    border-radius: 0.21rem;
+    float: right;
+    margin: 0.4rem 0.24rem 0 0;
+    letter-spacing: 1px;
+    color: #fde5f1;
+    font-size: 0.2rem;
+    text-align: center;
+    line-height: 0.42rem;
+}

@@ -1,0 +1,97 @@
+.ztl{
+    width: 7.50rem;
+    height: 0.40rem;
+    background-image: linear-gradient(
+            #d8d9d9,
+            #d8d9d9),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+    opacity: 0.5;
+    margin: 0 auto;
+}
+.baid{
+    width: 7.50rem;
+    height: 12.94rem;
+    background: #ecf9f7;
+    margin: 0 auto;
+    padding-top: 0.24rem;
+}
+.fhui {
+    font-size: 0.31rem;
+    font-family: iconfont;
+    color: #a5a8a8;
+    margin: 0 0 0.45rem 0.24rem;
+}
+.xiaoquan{
+    width: 4.41rem;
+    height: 4.49rem;
+    margin: 0.61rem 0 0 1.07rem;
+}
+.gongxi{
+    font-size: 0.44rem;
+    text-align: center;
+    letter-spacing: 0.02rem;
+    color: #646464;
+}
+.benci{
+    font-size: 0.3rem;
+    letter-spacing: 0.01rem;
+    color: #cdcdcd;
+    text-align: center;
+    line-height: 0.5rem;
+}
+.xian{
+    width: 6.57rem;
+    height: 0.06rem;
+    border: solid 0.03rem #050505;
+    opacity: 0.05;
+    margin: 0 auto;
+    margin-top: 1.05rem;
+}
+.fy{
+    width: 3.11rem;
+    height: 1.07rem;
+    background-image: linear-gradient(90deg,
+    #00aa98 0%,
+    #a1dbd2 100%),
+    linear-gradient(
+            #636363,
+            #636363);
+    background-blend-mode: normal,
+    normal;
+    box-shadow: 0 0.07rem 0.13rem 0
+    #25b5a5;
+    border-radius: 0.54rem;
+    margin: 0 auto;
+    margin-top: 0.87rem;
+    font-size: 0.44rem;
+    letter-spacing: 0.02rem;
+    text-align: center;
+    line-height: 1.07rem;
+    color: #f9f6f6;
+}
+.jg{
+    width: 3.11rem;
+    height: 1.07rem;
+    background-image: linear-gradient(90deg,
+    #20b9b7 0%,
+    #a1dbd2 100%),
+    linear-gradient(
+            #636363,
+            #636363);
+    background-blend-mode: normal,
+    normal;
+    box-shadow: 0 0.09rem 0.16rem 0
+    #2ebdba;
+    border-radius: 0.54rem;
+    margin: 0 auto;
+    margin-top: 0.6rem;
+    font-size: 0.44rem;
+    letter-spacing: 0.02rem;
+    text-align: center;
+    line-height: 1.07rem;
+    color: #faf2f2;
+}

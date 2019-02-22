@@ -1,0 +1,142 @@
+.ztl{
+    width: 7.50rem;
+    height: 0.40rem;
+    background-image: linear-gradient(
+            #d8d9d9,
+            #d8d9d9),
+    linear-gradient(
+            #a1dbd2,
+            #a1dbd2);
+    background-blend-mode: normal,
+    normal;
+    opacity: 0.5;
+    margin: 0 auto;
+}
+.baid{
+    width: 7.50rem;
+    height: 12.94rem;
+    /*background: #d6e9c6;*/
+    margin: 0 auto;
+    padding-top: 0.24rem;
+}
+.fhui{
+    font-size: 0.31rem;
+    font-family: iconfont;
+    color: #a5a8a8;
+    margin: 0 0 0.45rem 0.24rem;
+}
+.shaishi{
+    width: 2.6rem;
+    height: 0.40rem;
+    font-size: 0.42rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    margin-left: 0.24rem;
+    color: #8f9191;
+}
+.shaizi{
+    width: 7.01rem;
+    height: 0.4rem;
+    /*background: #1c94ff;*/
+    margin: 0.63rem 0 0.26rem 0.24rem;
+}
+.shaizi1{
+    width: 0.07rem;
+    height: 0.07rem;
+    font-size: 0.07rem;
+    font-family: iconfont;
+    color: #44b1c3;
+    float: left;
+}
+.shaizi2{
+    width: 0.07rem;
+    height: 0.07rem;
+    font-family: iconfont;
+    font-size: 0.07rem;
+    color: #d0d0d0;
+}
+.shaizi3{
+    width: 2.5rem;
+    height: 0.20rem;
+    font-size: 0.20rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #959696;
+    opacity: 0.73;
+    float: left;
+}
+.shaizi4{
+    /*width: 1.20rem;*/
+    /*height: 0.22rem;*/
+    font-size: 0.20rem;
+    letter-spacing: -0.01rem;
+    color: #f2a2a2;
+    float: right;
+    line-height: 0.5rem;
+}
+.shaizi5{
+    width: 1.20rem;
+    height: 0.22rem;
+    font-size: 0.30rem;
+    letter-spacing: -0.01rem;
+    color: #f46f6f;
+    float: right;
+}
+.imgbox{
+    width: 6.42rem;
+    height: 3.5rem;
+    margin: 0 auto;
+    margin-top: 0.65rem;
+    /*background: #83c44e;*/
+}
+.ka{
+    width: 6.42rem;
+    height: 2.59rem;
+    margin-top:-0.55rem;
+    float: left;
+}
+.tian{
+    width: 6.38rem;
+    height: 0.4rem;
+    background: #fcd230;
+    float: left;
+}
+.ka1{
+    width: 6.38rem;
+    height: 0.91rem;
+    float: left;
+    margin-top: 0.005rem;
+    border-radius: 0 0 0.2rem 0.2rem;
+}
+.mima{
+    width: 4.8rem;
+    height: 0.48rem;
+    /*background: #83c44e;*/
+    margin: 0 auto;
+    margin-top: 0.98rem;
+
+}
+.mim{
+    width: 0.73rem;
+    height:0.48rem ;
+    float: left;
+    margin-left: 0.065rem;
+    /*background: #1c94ff;*/
+}
+.mim p{
+    font-family: iconfont;
+    font-size: 0.46rem;
+    text-align: center;
+}
+.mim1{
+    width:0.73rem;
+    height: 0.08rem;
+    background: #e5e5e5;
+}
+.jp{
+    width: 7.5rem;
+    height: 4.29rem;
+    margin-top: 0.72rem;
+}

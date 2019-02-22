@@ -1,0 +1,390 @@
+.quedan{
+    width: 7.50rem;
+    height: 1.26rem;
+    background-image: linear-gradient(90deg,
+    #00aa98 0%,
+    #0aa292 100%),
+    linear-gradient(
+            #000000,
+            #000000);
+    background-blend-mode: normal,
+    normal;
+    margin: 0 auto;
+}
+.qdw{
+    width: 1.8rem;
+    height: 0.42rem;
+    font-size: 0.42rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.42rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    margin: 0 auto;
+    padding-top: 0.74rem;
+}
+.songzhi{
+    width: 7.50rem;
+    height: 5.28rem;
+    background-image: linear-gradient(90deg,
+    #00aa98 0%,
+    #35bbb0 100%),
+    linear-gradient(
+            #000000,
+            #000000);
+    background-blend-mode: normal,
+    normal;
+    margin: 0 auto;
+    padding-top: 0.39rem;
+}
+.content{
+    width: 7.02rem;
+    height: 1.35rem;
+    margin: 0 auto;
+}
+.content .c1{
+    width: 1.63rem;
+    height: 0.27rem;
+    font-size: 0.29rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0;
+    color: #ffffff;
+}
+.content .c2{
+    width: 5.21rem;
+    height: 0.36rem;
+    font-size: 0.38rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    margin-top: 0.21rem;
+}
+.content .c3{
+    width: 4.59rem;
+    height: 0.29rem;
+    font-size: 0.30rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0;
+    color: #ffffff;
+    margin-top: 0.19rem;
+}
+.bcontent{
+    width: 7.02rem;
+    height: 2.11rem;
+    background: #fcfcfc;
+    box-shadow: 0 0.01rem 0.16rem 0
+    #c0c3c2;
+    border-radius: 0.20rem;
+    margin: 0 auto;
+    margin-top: 0.28rem;
+    padding: 0.43rem 0 0 0.25rem;
+}
+.sdsj{
+    width:6.0rem;
+    height: 0.30rem;
+    font-size: 0.32rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0.03rem;
+    color: #737373;;
+}
+.zsfw{
+    width: 3.5rem;
+    height: 0.22rem;
+    font-size: 0.22rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0.01rem;
+    color: #fd9795;
+    margin-top: 0.14rem;
+}
+.zffs{
+    width: 1.4rem;
+    height: 0.31rem;
+    font-size: 0.32rem;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 0.32rem;
+    letter-spacing: 0.03rem;
+    margin-top: 0.41rem;
+    color: #737373;
+}
+.dia{
+    width: 7.5rem;
+    height: 11.77rem;
+    background: #d6e9c6;
+    margin: 0 auto;
+}
+.jinzha{
+    width: 7.02rem;
+    height: 7.38rem;
+    background: #fcfcfc;
+    box-shadow: 0.03rem 0 0.01rem 0
+    #e9edea,
+    -0.03rem 0 0.01rem 0
+    #e9edea,
+    0 0.05rem 0.01rem 0
+    #eef1ef;
+    border-radius: 0.20rem;
+    margin: 0 auto;
+    padding:0.35rem 0.25rem 0 0.25rem ;
+}
+.qjty{
+    width: 2.93rem;
+    height: 0.23rem;
+    font-size: 0.24rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #636161;
+}
+.slh1{
+    font-family: iconfont;
+    margin-top: 0.18rem;
+    font-size: 0.64rem;
+    color: #c3d3d1;
+}
+.jzjs{
+    width: 6.51rem;
+    height: 2.72rem;
+    margin-top: 0.61rem;
+}
+.jzjs li{
+    margin-bottom: 0.2rem;
+}
+.zjs1{
+    width:6.51rem;
+    height: 0.73rem;
+
+}
+.zjs1 img{
+    width: 0.73rem;
+    height: 0.73rem;
+    float: left;
+    margin-right: 0.33rem;
+}
+.taocan{
+    height: 0.33rem;
+    width: 1.9rem;
+    font-size: 0.24rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    line-height: 0.73rem;
+    color: #727171;
+    float: left;
+}
+.tianjia{
+    width: 0.33rem;
+    height: 0.33rem;
+    color: #51b584;
+    font-family: iconfont;
+    font-size: 0.33rem;
+    line-height: 0.9rem;
+    float: left;
+    transform: rotate(45deg);
+}
+.th3{
+    width: 0.14rem;
+    height: 0.24rem;
+    font-size: 0.24rem;
+    color: #727171;
+    line-height: 0.73rem;
+    float: left;
+}
+.tt{
+    font-size: 0.24rem;
+    color: #f98282;
+    float: right;
+    line-height: 0.73rem;
+}
+.rmb{
+    font-size: 0.18rem;
+    color: #727171;
+    float: right;
+    line-height: 0.81rem;
+}
+.slh2{
+    font-family: iconfont;
+    margin-top: 0.44rem;
+    font-size: 0.64rem;
+    color: #c3d3d1;
+}
+.hongbao{
+    width:6.51rem;
+    height: 0.25rem;
+    /*background: #1c94ff;*/
+}
+.hb1{
+    width: 0.6rem;
+    height: 0.24rem;
+    font-size: 0.26rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #4f4b4b;
+    float: left;
+    line-height: 0.25rem;
+}
+.hb2{
+    width: 1.35rem;
+    height: 0.25rem;
+    font-size: 0.26rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #b9b4b4;
+    float: right;
+    line-height: 0.25rem;
+}
+.slh3{
+    font-family: iconfont;
+    margin-top: 0.01rem;
+    font-size: 0.64rem;
+    color: #c3d3d1;
+}
+.xiaoji{
+    width:6.51rem;
+    height: 0.26rem;
+    /*background: #1c94ff;*/
+}
+.xj1{
+    width: 0.8rem;
+    height: 0.25rem;
+    font-size: 0.26rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #4f4d4d;
+    line-height: 0.25rem;
+    float: left;
+}
+.xj2{
+    width: 0.4rem;
+    height: 0.20rem;
+    font-size: 0.26rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 1px;
+    color: #fb8282;
+    float: right;
+    line-height: 0.25rem;
+}
+.xj3{
+    font-size: 0.20rem;
+    font-weight: normal;
+    letter-spacing: 0.01rem;
+    color: #b9b4b4;
+    float: right;
+}
+.dcbz{
+    width: 6.56rem;
+    height: 0.32rem;
+    /*background: #83c44e;*/
+    margin: 0.6rem 0 0 0.44rem;
+}
+.bz1{
+    width: 1.16rem;
+    height: 0.25rem;
+    font-size: 0.26rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #8d8989;
+    float: left;
+}
+.bz2{
+    width: 1.14rem;
+    height: 0.25rem;
+    font-size: 0.26rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #4f4d4d;
+    float: right;
+}
+.slh4{
+    font-family: iconfont;
+    margin-top: 0.01rem;
+    font-size: 0.64rem;
+    color: #c3d3d1;
+    margin: 0.57rem 0 0 0.44rem;
+
+}
+.dcbz2{
+    width: 6.56rem;
+    height: 0.32rem;
+    /*background: #83c44e;*/
+    margin: 0.4rem 0 0 0.44rem;
+}
+.fs{
+    width: 1.15rem;
+    height: 0.25rem;
+    font-size: 0.26rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #807e7e;
+    float: left;
+}
+.xz{
+    width: 0.99rem;
+    height: 0.24rem;
+    font-size: 0.26rem;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0.01rem;
+    color: #4c4b4b;
+    float: right;
+}
+.qrzf{
+    width: 7.50rem;
+    height: 0.99rem;
+    background-image: linear-gradient(
+            #fcfcfc,
+            #fcfcfc),
+    linear-gradient(
+            #000000,
+            #000000);
+    background-blend-mode: normal,
+    normal;
+    box-shadow: 0 -0.06rem 0.01rem 0
+    #eef1ef;
+    border: solid 0 #000000;
+    margin-top: 0.2rem;
+}
+.rm{
+          width: 1.20rem;
+          height: 0.20rem;
+          font-size: 0.26rem;
+          font-weight: normal;
+          font-stretch: normal;
+          letter-spacing: 0.01rem;
+          color: #51b584;
+    line-height: 0.99rem;
+    margin-left: 0.44rem;
+}
+.qz{
+    width: 1.5rem;
+    height: 0.41rem;
+    background-color: #51b584;
+    border-radius: 21px;
+    float: right;
+    margin-right: 0.32rem;
+}
+.qzi{
+   text-align: center;
+    font-size: 0.14rem;
+    color: #eef3f1;
+    line-height: 0.41rem;
+    /*margin-left:0.15rem ;*/
+
+}

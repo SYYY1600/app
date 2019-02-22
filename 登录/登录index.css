@@ -1,0 +1,105 @@
+.di{
+    box-sizing: border-box;
+    height: 13.34rem;
+    background: url("./image/Eathealthy.png") no-repeat center;
+    background-size: auto 13.34rem;
+    /*margin: 0 auto;*/
+    position: relative;
+}
+.dak{
+    background-color: #ffffff;
+    width: 6.24rem;
+    height: 4.6rem;
+    left: 50%;
+    position: fixed;
+    margin-left: -2.5rem;
+    top: 33%;
+}
+.ww{
+    width: 5.23rem;
+    height: 3.75rem;
+    margin: 0 auto;
+    margin-top: 0.53rem;
+    /*background: #e53953;*/
+}
+.dlan{
+    width: 6.24rem;
+    height: 0.98rem;
+    background: #ffffff;
+    left: 50%;
+    position: fixed;
+    margin-left: -2.5rem;
+    top:70%;
+    font-size: 0.26rem;
+    line-height: 0.98rem;
+    text-align: center;
+    color: #bbbbbb;
+    margin-top: 0.5rem;
+}
+.zi{
+    font-size: 0.24rem;
+    letter-spacing: 0.01rem;
+    color: #cbcbcb;
+}
+lable {
+    font-size: 0.14rem;
+    position: absolute;
+    display: inline-block;
+    color: #cacaca;
+    margin-top: 0.57rem;
+}
+/*input{*/
+    /*outline: none;*/
+    /*border: none;*/
+    /*z-index: 5;*/
+    /*position: absolute;*/
+    /*top: 0.13rem;*/
+    /*width: 3.40rem;*/
+    /*background-color: transparent;*/
+    /*font-size: 0.20rem;*/
+    /*margin-top: 5.57rem;*/
+/*}*/
+.yhmx{
+    width: 5.05rem;
+    height: 0.01rem;
+    border: solid 0.03rem #e5e5e5;
+    margin-top: 0.15rem;
+
+}
+.zi1{
+    font-size: 0.24rem;
+    letter-spacing: 0.01rem;
+    color: #cbcbcb;
+    margin-top: 0.3rem;
+}
+.zb{
+    width: 1.5rem;
+    height: 0.24rem;
+    /*background: #afd9ee;*/
+    margin-top: 0.35rem;
+
+}
+.biao2{
+    font-size: 0.22rem;
+    font-family: iconfont;
+    color: #00d5cf;
+    float: left;
+    line-height: 0.1rem;
+}
+.wjmm{
+    font-size: 0.24rem;
+    float: right;
+
+    line-height: 0.1rem;
+    color: #cbcbcb;
+
+}
+#num{
+    outline: none;
+    border: none;
+
+}
+#pass{
+    outline: none;
+    border: none;
+}
